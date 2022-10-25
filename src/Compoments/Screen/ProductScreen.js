@@ -53,6 +53,7 @@ export default function ProductScreen() {
             </li>
             <li>
               <div className="row">
+                
                 <div>status</div>
                 <div>
                   {exit.cout > 0 ? (
